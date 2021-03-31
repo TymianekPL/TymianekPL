@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TymianekPL
+- 👀 I’m interested in java and C#
+- 📫 Go to [site](https://tymianek.web.app/contact) to contact!

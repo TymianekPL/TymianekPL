@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TymianekPL
 - 👀 I’m interested in java and C#
-- 📫 Go to Discord [Invite link](https://tymianek.mooo.com/discord)!
+- 📫 Go to Discord [Invite link](https://discord.com/invite/XAbQrTuHHt)!

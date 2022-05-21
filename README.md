@@ -1,3 +1,0 @@
-- Hi, I’m Tymianek, I like buttermilk and programing. 
-- I know C, C++, C#, Java, php, Javascript, batch, bash, html, sql, css, sass (scss) and other that i dont remember lol
-- Go to Discord [Invite link](https://discord.com/invite/XAbQrTuHHt)!

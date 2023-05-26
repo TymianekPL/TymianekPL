@@ -1,3 +1,4 @@
-- Hi, I’m Tymianek, I like buttermilk and programing. 
-- I know C, C++, C#, Java, php, Javascript, batch, bash, html, sql, css, sass (scss) and other that I don't remember
-- Go to Discord [Invite link](https://discord.com/invite/XAbQrTuHHt)!
+- 🇵🇱 Hi, I’m Tymianek, a programmer from Poland!
+- ☕ I know C, C++, C#, Java, php, Javascript, Typescript, batch, bash, html, sql, css, sass (scss), arduino, C--, Holy C, yeetlang and others that I don't remember
+- ⏲️ Programmer since 2016 or so (can't recall correctly, maybe 2017... who knows...)
+- ❤️ I love her...

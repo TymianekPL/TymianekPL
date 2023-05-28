@@ -5,4 +5,4 @@
 - 👷 Looking forward into collaborations!
 - 🔌I try to find some time to learn electronics as well, but yeah no, no time for that...
 
-[![Github Overview](https://github-readme-stats.vercel.app/api?username=TymianekPL&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1a1a1a&icon_color=222222&text_color=222222&bg_color=0,000000,550299)](https://github.com/TymianekPL)
+[![Github Overview](https://github-readme-stats.vercel.app/api?username=TymianekPL&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)](https://github.com/TymianekPL)

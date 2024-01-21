@@ -3,3 +3,5 @@ I resigned as a programmer. It was a fantastic journey, but it's time for me to 
 Love, tym~
 
 17.01.2024
+
+<!-- 01.01.2026 🤔 -->
